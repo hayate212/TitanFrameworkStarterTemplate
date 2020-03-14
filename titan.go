@@ -2,7 +2,9 @@ package main
 
 import (
 	"log"
-	t "github.com/hayate212/TitanFramework/.titan"
+
+	"./app"
+	t "github.com/hayate212/TitanFramework"
 )
 
 func main() {
