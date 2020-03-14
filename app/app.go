@@ -1,7 +1,7 @@
 package app
 
 import (
-	t "github.com/hayate212/TitanFramework/.titan"
+	t "github.com/hayate212/TitanFramework"
 )
 
 type Handle struct {
